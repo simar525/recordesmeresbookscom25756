@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://books.esmeres.com/$1"
+ }
+  ]
+}
